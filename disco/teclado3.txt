@@ -1,0 +1,3 @@
+Teclado - Entrada 3 :
+Disciplina: Sistemas Operacionais
+Professor: Joao Jose Neto

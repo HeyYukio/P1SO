@@ -1,0 +1,7103 @@
+
+
+Clock: 0
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 0 
+
+
+Clock: 1
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 1 
+
+
+Clock: 2
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 2 
+
+
+Clock: 3
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 3 
+
+
+Clock: 4
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 4 
+
+
+Clock: 5
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 5 
+
+
+Clock: 6
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 6 
+
+
+Clock: 7
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 7 
+
+
+Clock: 8
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 8 
+
+
+Clock: 9
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 9 
+
+
+Clock: 10
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 10 
+
+
+Clock: 11
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 11 
+
+
+Clock: 12
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 12 
+
+
+Clock: 13
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 13 
+
+
+Clock: 14
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 14 
+
+
+Clock: 15
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 15 
+
+
+Clock: 16
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 16 
+
+
+Clock: 17
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 17 
+
+
+Clock: 18
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 18 
+
+
+Clock: 19
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 2; Tipo: Chegada; Inst: 20; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 19 
+
+
+Clock: 20
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Chegada
+       -Job: 2; Tipo: Chegada
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Ingresso; Inst: 0; cpu restante: 60
+       Job: 2; Tipo: Ingresso; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 20
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Ingresso
+       -Job: 2; Tipo: Ingresso
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 20
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: ReqDisp
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: ReqMem; Inst: 0; cpu restante: 60
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 20
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: ReqMem
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: ReqProcess; Inst: 0; cpu restante: 60
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 20
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: ReqProcess
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 0; cpu restante: 60
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 20
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 21; cpu restante: 61.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 21
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 22; cpu restante: 60.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 22
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 23; cpu restante: 59.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 23
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 24; cpu restante: 58.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 24
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 25; cpu restante: 57.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 25
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 26; cpu restante: 56.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 26
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 27; cpu restante: 55.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 27
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 28; cpu restante: 54.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 28
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 29; cpu restante: 53.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 29
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 30; cpu restante: 52.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 30
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 31; cpu restante: 51.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 31
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 32; cpu restante: 50.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 32
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 33; cpu restante: 49.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 33
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 34; cpu restante: 48.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 34
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 35; cpu restante: 47.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 35
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 36; cpu restante: 46.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 36
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 37; cpu restante: 45.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 37
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 38; cpu restante: 44.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 38
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 39; cpu restante: 43.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 39
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 40; cpu restante: 42.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 40
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 41; cpu restante: 41.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 41
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 42; cpu restante: 40.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 42
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 43; cpu restante: 39.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 43
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 44; cpu restante: 38.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 44
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 45; cpu restante: 37.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 45
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 46; cpu restante: 36.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 46
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 47; cpu restante: 35.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 47
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 48; cpu restante: 34.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 48
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 49; cpu restante: 33.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 49
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 50; cpu restante: 32.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 50
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 51; cpu restante: 31.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 51
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 52; cpu restante: 30.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 52
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 53; cpu restante: 29.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 53
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 54; cpu restante: 28.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 54
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 55; cpu restante: 27.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 55
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 56; cpu restante: 26.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 56
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 57; cpu restante: 25.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 57
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 58; cpu restante: 24.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 58
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 59; cpu restante: 23.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 59
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 60; cpu restante: 22.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 60
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 61; cpu restante: 21.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 61
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 62; cpu restante: 20.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 62
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 63; cpu restante: 19.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 63
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 64; cpu restante: 18.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 64
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 65; cpu restante: 17.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 65
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 66; cpu restante: 16.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 66
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 67; cpu restante: 15.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 67
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 68; cpu restante: 14.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 68
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 69; cpu restante: 13.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 69
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 70; cpu restante: 12.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 70
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 71; cpu restante: 11.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 71
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 72; cpu restante: 10.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 72
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 73; cpu restante: 9.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 73
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 74; cpu restante: 8.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 74
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 75; cpu restante: 7.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 75
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 76; cpu restante: 6.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 76
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 77; cpu restante: 5.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 77
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 78; cpu restante: 4.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 78
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 79; cpu restante: 3.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 79
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 80; cpu restante: 2.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 80
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 81; cpu restante: 1.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 81
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: Executando; Inst: 82; cpu restante: 0.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 82
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: Executando
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 1
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: FimProcess; Inst: 0; cpu restante: -1.0
+       Job: 2; Tipo: ReqDisp; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 82
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: FimProcess
+       -Job: 2; Tipo: ReqDisp
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: LiberaProcess; Inst: 0; cpu restante: -1.0
+       Job: 2; Tipo: ReqMem; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 82
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: LiberaProcess
+       -Job: 2; Tipo: ReqMem
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: LiberaMem; Inst: 0; cpu restante: -1.0
+       Job: 2; Tipo: ReqProcess; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 60/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 82
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: LiberaMem
+       -Job: 2; Tipo: ReqProcess
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 1; Tipo: SaidaSis; Inst: 0; cpu restante: -1.0
+       Job: 2; Tipo: Executando; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 82
+
+   Eventos tratados no ciclo: 
+
+       -Job: 1; Tipo: SaidaSis
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 0; cpu restante: 60
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 82
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 83; cpu restante: 61.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 83
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 84; cpu restante: 60.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 84
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 85; cpu restante: 59.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 85
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 86; cpu restante: 58.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 86
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 87; cpu restante: 57.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 87
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 88; cpu restante: 56.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 88
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 89; cpu restante: 55.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 89
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 90; cpu restante: 54.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 90
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 91; cpu restante: 53.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 91
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 92; cpu restante: 52.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 92
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 93; cpu restante: 51.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 93
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 94; cpu restante: 50.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 94
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 95; cpu restante: 49.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 95
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 96; cpu restante: 48.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 96
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 97; cpu restante: 47.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 97
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 98; cpu restante: 46.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 98
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 99; cpu restante: 45.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 99
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 100; cpu restante: 44.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 100
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 101; cpu restante: 43.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 101
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 102; cpu restante: 42.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 102
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 103; cpu restante: 41.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 103
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 104; cpu restante: 40.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 104
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 105; cpu restante: 39.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 105
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 106; cpu restante: 38.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 106
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 107; cpu restante: 37.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 107
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 108; cpu restante: 36.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 108
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 109; cpu restante: 35.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 109
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 110; cpu restante: 34.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 110
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 111; cpu restante: 33.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 111
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 112; cpu restante: 32.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 112
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 113; cpu restante: 31.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 113
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 114; cpu restante: 30.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 114
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 115; cpu restante: 29.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 115
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 116; cpu restante: 28.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 116
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 117; cpu restante: 27.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 117
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 118; cpu restante: 26.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 118
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 119; cpu restante: 25.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 119
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 120; cpu restante: 24.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 120
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 121; cpu restante: 23.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 121
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 122; cpu restante: 22.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 122
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 123; cpu restante: 21.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 123
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 124; cpu restante: 20.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 124
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 125; cpu restante: 19.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 125
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 126; cpu restante: 18.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 126
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 127; cpu restante: 17.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 127
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 128; cpu restante: 16.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 128
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 129; cpu restante: 15.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 129
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 130; cpu restante: 14.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 130
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 131; cpu restante: 13.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 131
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 132; cpu restante: 12.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 132
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 133; cpu restante: 11.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 133
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 134; cpu restante: 10.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 134
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 135; cpu restante: 9.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 135
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 136; cpu restante: 8.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 136
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 137; cpu restante: 7.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 137
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 138; cpu restante: 6.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 138
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 139; cpu restante: 5.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 139
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 140; cpu restante: 4.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 140
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 141; cpu restante: 3.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 141
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 142; cpu restante: 2.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 142
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 143; cpu restante: 1.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 143
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: Executando; Inst: 144; cpu restante: 0.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 144
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: Executando
+
+   Jobs em execucao: 2
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: FimProcess; Inst: 0; cpu restante: -1.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 144
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: FimProcess
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: LiberaProcess; Inst: 0; cpu restante: -1.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 144
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: LiberaProcess
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: LiberaMem; Inst: 0; cpu restante: -1.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 30/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 144
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: LiberaMem
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 2; Tipo: SaidaSis; Inst: 0; cpu restante: -1.0
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 144
+
+   Eventos tratados no ciclo: 
+
+       -Job: 2; Tipo: SaidaSis
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 144
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 20 
+
+
+Clock: 145
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 21 
+
+
+Clock: 146
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 22 
+
+
+Clock: 147
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 23 
+
+
+Clock: 148
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 24 
+
+
+Clock: 149
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 25 
+
+
+Clock: 150
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 26 
+
+
+Clock: 151
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 27 
+
+
+Clock: 152
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 28 
+
+
+Clock: 153
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 29 
+
+
+Clock: 154
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 30 
+
+
+Clock: 155
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 31 
+
+
+Clock: 156
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 32 
+
+
+Clock: 157
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 33 
+
+
+Clock: 158
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 34 
+
+
+Clock: 159
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 35 
+
+
+Clock: 160
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 36 
+
+
+Clock: 161
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 37 
+
+
+Clock: 162
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 38 
+
+
+Clock: 163
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 39 
+
+
+Clock: 164
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 40 
+
+
+Clock: 165
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 41 
+
+
+Clock: 166
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 42 
+
+
+Clock: 167
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 43 
+
+
+Clock: 168
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 44 
+
+
+Clock: 169
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 45 
+
+
+Clock: 170
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 46 
+
+
+Clock: 171
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 47 
+
+
+Clock: 172
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 48 
+
+
+Clock: 173
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 49 
+
+
+Clock: 174
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 50 
+
+
+Clock: 175
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 51 
+
+
+Clock: 176
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 52 
+
+
+Clock: 177
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 53 
+
+
+Clock: 178
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 54 
+
+
+Clock: 179
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 55 
+
+
+Clock: 180
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 56 
+
+
+Clock: 181
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 57 
+
+
+Clock: 182
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 58 
+
+
+Clock: 183
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 59 
+
+
+Clock: 184
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 60 
+
+
+Clock: 185
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 61 
+
+
+Clock: 186
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 62 
+
+
+Clock: 187
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 63 
+
+
+Clock: 188
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 64 
+
+
+Clock: 189
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 65 
+
+
+Clock: 190
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 66 
+
+
+Clock: 191
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 67 
+
+
+Clock: 192
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 68 
+
+
+Clock: 193
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 69 
+
+
+Clock: 194
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 70 
+
+
+Clock: 195
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 71 
+
+
+Clock: 196
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 72 
+
+
+Clock: 197
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 73 
+
+
+Clock: 198
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 74 
+
+
+Clock: 199
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 75 
+
+
+Clock: 200
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 76 
+
+
+Clock: 201
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 77 
+
+
+Clock: 202
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 78 
+
+
+Clock: 203
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 79 
+
+
+Clock: 204
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 80 
+
+
+Clock: 205
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 81 
+
+
+Clock: 206
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 82 
+
+
+Clock: 207
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 83 
+
+
+Clock: 208
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 84 
+
+
+Clock: 209
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 85 
+
+
+Clock: 210
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 86 
+
+
+Clock: 211
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 87 
+
+
+Clock: 212
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 88 
+
+
+Clock: 213
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 89 
+
+
+Clock: 214
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 90 
+
+
+Clock: 215
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 91 
+
+
+Clock: 216
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 92 
+
+
+Clock: 217
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 93 
+
+
+Clock: 218
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 94 
+
+
+Clock: 219
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Chegada; Inst: 220; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 95 
+
+
+Clock: 220
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Chegada
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Ingresso; Inst: 0; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 220
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Ingresso
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: ReqDisp; Inst: 0; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 220
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: ReqDisp
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: ReqMem; Inst: 0; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 220
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: ReqMem
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: ReqProcess; Inst: 0; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 220
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 0; cpu restante: 80
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 220
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 221; cpu restante: 83.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 221
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 222; cpu restante: 82.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 222
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 223; cpu restante: 81.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 223
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 224; cpu restante: 80.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 224
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 225; cpu restante: 79.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 225
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 226; cpu restante: 78.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 226
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 227; cpu restante: 77.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 227
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 228; cpu restante: 76.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 228
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 229; cpu restante: 75.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 229
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 230; cpu restante: 74.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 230
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 231; cpu restante: 73.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 231
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 232; cpu restante: 72.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 232
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 233; cpu restante: 71.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 233
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 234; cpu restante: 70.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 234
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 235; cpu restante: 69.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 235
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 236; cpu restante: 68.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 236
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 237; cpu restante: 67.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 237
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 238; cpu restante: 66.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 238
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 239; cpu restante: 65.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 239
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 240; cpu restante: 64.0
+       Job: 4; Tipo: Chegada; Inst: 240; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 240
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: Chegada
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 241; cpu restante: 63.0
+       Job: 4; Tipo: Ingresso; Inst: 0; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 240
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Ingresso
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 241; cpu restante: 63.0
+       Job: 4; Tipo: ReqDisp; Inst: 0; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 240
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: ReqDisp
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 241; cpu restante: 63.0
+       Job: 4; Tipo: ReqMem; Inst: 0; cpu restante: 40
+
+   Memoria: 80/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 240
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: ReqMem
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 241; cpu restante: 63.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 240
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 241; cpu restante: 63.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 241
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 242; cpu restante: 62.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 242
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 243; cpu restante: 61.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 243
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 244; cpu restante: 60.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 244
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 245; cpu restante: 59.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 245
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 246; cpu restante: 58.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 246
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 247; cpu restante: 57.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 247
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 248; cpu restante: 56.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 248
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 249; cpu restante: 55.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 249
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 250; cpu restante: 54.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 250
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 251; cpu restante: 53.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 251
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 252; cpu restante: 52.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 252
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 253; cpu restante: 51.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 253
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 254; cpu restante: 50.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 254
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 255; cpu restante: 49.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 255
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 256; cpu restante: 48.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 256
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 257; cpu restante: 47.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 257
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 258; cpu restante: 46.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 258
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 259; cpu restante: 45.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 259
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 260; cpu restante: 44.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 260
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 261; cpu restante: 43.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 261
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 262; cpu restante: 42.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 262
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 263; cpu restante: 41.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 263
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 264; cpu restante: 40.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 264
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 265; cpu restante: 39.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 265
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 266; cpu restante: 38.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 266
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 267; cpu restante: 37.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 267
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 268; cpu restante: 36.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 268
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 269; cpu restante: 35.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 269
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 270; cpu restante: 34.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 270
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 271; cpu restante: 33.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 271
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 272; cpu restante: 32.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 272
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 273; cpu restante: 31.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 273
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 274; cpu restante: 30.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 274
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 275; cpu restante: 29.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 275
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 276; cpu restante: 28.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 276
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 277; cpu restante: 27.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 277
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 278; cpu restante: 26.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 278
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 279; cpu restante: 25.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 279
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 280; cpu restante: 24.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 280
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 281; cpu restante: 23.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 281
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 282; cpu restante: 22.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 282
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 283; cpu restante: 21.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 283
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 284; cpu restante: 20.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 284
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 285; cpu restante: 19.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 285
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 286; cpu restante: 18.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 286
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 287; cpu restante: 17.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 287
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 288; cpu restante: 16.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 288
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 289; cpu restante: 15.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 289
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 290; cpu restante: 14.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 290
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 291; cpu restante: 13.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 291
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 292; cpu restante: 12.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 292
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 293; cpu restante: 11.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 293
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 294; cpu restante: 10.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 294
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 295; cpu restante: 9.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 295
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 296; cpu restante: 8.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 296
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 297; cpu restante: 7.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 297
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 298; cpu restante: 6.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 298
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 299; cpu restante: 5.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 299
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 300; cpu restante: 4.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 300
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 301; cpu restante: 3.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 301
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 302; cpu restante: 2.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 302
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 303; cpu restante: 1.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 303
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: Executando; Inst: 304; cpu restante: 0.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 304
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: Executando
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 3
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: FimProcess; Inst: 0; cpu restante: -1.0
+       Job: 4; Tipo: ReqProcess; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 304
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: FimProcess
+       -Job: 4; Tipo: ReqProcess
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: LiberaProcess; Inst: 0; cpu restante: -1.0
+       Job: 4; Tipo: Executando; Inst: 0; cpu restante: 40
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 304
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: LiberaProcess
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: LiberaMem; Inst: 0; cpu restante: -1.0
+       Job: 4; Tipo: Executando; Inst: 305; cpu restante: 42.0
+
+   Memoria: 120/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 304
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: LiberaMem
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 3; Tipo: SaidaSis; Inst: 0; cpu restante: -1.0
+       Job: 4; Tipo: Executando; Inst: 305; cpu restante: 42.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 304
+
+   Eventos tratados no ciclo: 
+
+       -Job: 3; Tipo: SaidaSis
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 305; cpu restante: 42.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 304
+
+   Eventos tratados no ciclo: 
+
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 305; cpu restante: 42.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 305
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 306; cpu restante: 41.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 306
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 307; cpu restante: 40.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 307
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 308; cpu restante: 39.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 308
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 309; cpu restante: 38.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 309
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 310; cpu restante: 37.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 310
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 311; cpu restante: 36.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 311
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 312; cpu restante: 35.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 312
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 313; cpu restante: 34.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 313
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 314; cpu restante: 33.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 314
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 315; cpu restante: 32.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 315
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 316; cpu restante: 31.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 316
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 317; cpu restante: 30.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 317
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 318; cpu restante: 29.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 318
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 319; cpu restante: 28.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 319
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 320; cpu restante: 27.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 320
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 321; cpu restante: 26.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 321
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 322; cpu restante: 25.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 322
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 323; cpu restante: 24.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 323
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 324; cpu restante: 23.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 324
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 325; cpu restante: 22.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 325
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 326; cpu restante: 21.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 326
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 327; cpu restante: 20.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 327
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 328; cpu restante: 19.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 328
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 329; cpu restante: 18.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 329
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 330; cpu restante: 17.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 330
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 331; cpu restante: 16.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 331
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 332; cpu restante: 15.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 332
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 333; cpu restante: 14.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 333
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 334; cpu restante: 13.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 334
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 335; cpu restante: 12.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 335
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 336; cpu restante: 11.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 336
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 337; cpu restante: 10.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 337
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 338; cpu restante: 9.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 338
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 339; cpu restante: 8.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 339
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 340; cpu restante: 7.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 340
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 341; cpu restante: 6.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 341
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 342; cpu restante: 5.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 342
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 343; cpu restante: 4.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 343
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 344; cpu restante: 3.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 344
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 345; cpu restante: 2.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 345
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 346; cpu restante: 1.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 346
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: Executando; Inst: 347; cpu restante: 0.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 347
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: Executando
+
+   Jobs em execucao: 4
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: FimProcess; Inst: 0; cpu restante: -1.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 347
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: FimProcess
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: LiberaProcess; Inst: 0; cpu restante: -1.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 347
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: LiberaProcess
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: LiberaMem; Inst: 0; cpu restante: -1.0
+
+   Memoria: 40/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 347
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: LiberaMem
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+       Job: 4; Tipo: SaidaSis; Inst: 0; cpu restante: -1.0
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 96 
+
+
+Clock: 347
+
+   Eventos tratados no ciclo: 
+
+       -Job: 4; Tipo: SaidaSis
+
+   Jobs em execucao: 
+
+   Lista de eventos ao fim do ciclo: 
+
+
+   Memoria: 0/256 
+
+   Ciclos Ociosos: 96 
+
+
+Estatisticas: 
+
+  Ciclos Ociosos: 96 

@@ -1,0 +1,7 @@
+Monitor - Saida 1:
+NOME: Henrique Yukio Murata 
+NUSP: 10792153
+NOME: Lucas Leme Santos
+NUSP: 10773353
+Disciplina: Sistemas Operacionais
+Professor: Joao Jose Neto

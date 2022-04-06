@@ -1,0 +1,24 @@
+# MULTIPROG nivel_multiprogramação
+MULTIPROG 2
+# VIRTULIZATION bool
+VIRTULIZATION False
+# JOB job_id chegada memoria cpu
+JOB 1 20 30 60
+    # SYSCALL job_id syscall path
+    SYSCALL 1 read_io teclado1.txt
+JOB 2 20 30 60
+    SYSCALL 2 read_io teclado2.txt
+JOB 3 220 80 80
+    SYSCALL 3 read_io teclado3.txt
+JOB 4 240 40 40
+    SYSCALL 4 write_io monitor1.txt
+# JOBMIX job_id1 job_id2
+JOBMIX 1 2 3 4
+# EVENT job_id
+# EVENT job_id inst tipo
+EVENT 1
+EVENT 2
+EVENT 3
+EVENT 4
+# EVENTS job_id1 job_id2
+EVENTS 1 2 3 4

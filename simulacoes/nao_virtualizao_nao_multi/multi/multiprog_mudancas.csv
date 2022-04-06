@@ -1,0 +1,11 @@
+,job=1,job=2,job=3,job=4
+Chegada,20,20,220,240
+Ingresso,20,20,220,240
+ReqDisp,20,20,220,240
+ReqMem,20,85,220,240
+ReqProcess,20,85,220,240
+Executando,20,85,220,307
+FimProcess,85,150,307,353
+LiberaProcess,85,150,307,353
+LiberaMem,85,150,307,353
+SaidaSis,85,150,307,353
