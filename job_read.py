@@ -1,6 +1,6 @@
 from arquivo import Arquivo
 from disco import Disco, setup_disco
-from syscall import ReadIO, WriteIO, ReadFile, WriteFile, OpenFile, CloseFile
+from syscall import ReadIO, WriteIO
 from evento import Evento
 from job import Job
 from typing import List

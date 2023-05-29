@@ -1,4 +1,0 @@
-Delay Usuario Job 1: 5
-Delay Usuario Job 2: 5
-Delay Usuario Job 3: 7
-Delay Usuario Job 4: 6

@@ -368,18 +368,6 @@ FilaProcessador = []
 clock = 0
 ciclos_ociosos = 0
 
-# def listToString(s):
-
-#     # initialize an empty string
-#     str1 = ""
-
-#     # traverse in the string
-#     for ele in s:
-#         str1 += ele
-
-#     # return string
-#     return str1
-
 while (len(FilaEventos) != 0 and clock <= 99999):
 
     resultado.write("\n\nClock: "+str(clock)+"\n")
@@ -405,8 +393,6 @@ while (len(FilaEventos) != 0 and clock <= 99999):
 
         execucao_necessaria = evento.inst == clock or evento.inst == 0
 
-        # print ("clock " + str(clock) +"; len_adjust " +str(len_adjust))
-
         if execucao_necessaria:
 
             clock, fixa_clock, delete_job_index = MotorEventos(
@@ -415,12 +401,8 @@ while (len(FilaEventos) != 0 and clock <= 99999):
             if delete_job_index != None:
                 FilaEventos.pop(delete_job_index)
 
-    resultado.write('\n   Jobs em execucao: ' +
-                    ', '.join([str(elem.id) for elem in FilaProcessador]))
+    resultado.write('\n   Jobs em execucao: ' + ', '.join([str(elem.id) for elem in FilaProcessador]))
     resultado.write('\n')
-
-    # resultado.write('\n   Len adjust: ' + str(len_adjust)+"\n")
-
     resultado.write("\n   Lista de eventos ao fim do ciclo: \n\n")
 
     for evento in FilaEventos:
@@ -562,9 +544,7 @@ for idx, clock in zip(range(len(jobs.index.unique())), jobs.index.unique()):
 
 is_multiprog = pd.DataFrame(
     multiprog_on, index=range(jobs.index.unique()[0], jobs.index.unique()[-1]+1), columns=['is_multiprog'])
-
-# # fig = go.Figure()
-
+    
 trace = go.Scatter(x=is_multiprog.index,
                    y=is_multiprog.is_multiprog,
                    fill='tozeroy',

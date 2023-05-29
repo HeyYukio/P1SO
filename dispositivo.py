@@ -1,6 +1,4 @@
 from typing import List
-
-from disco import Disco
 from job import Job
 
 # Cada objeto da classe abaico é uma UCB
